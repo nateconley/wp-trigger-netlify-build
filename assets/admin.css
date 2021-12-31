@@ -1,0 +1,14 @@
+form#wptnb-trigger .notice,
+form#wptnb-trigger .spinner {
+	display: none;
+}
+
+form#wptnb-trigger .notice {
+	margin-bottom: 20px;
+	margin-left: 0;
+}
+
+form#wptnb-trigger .spinner {
+	float: none;
+	margin-top: 12px;
+}
